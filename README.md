@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jainam Patel</h1>
 
-<h3 align="center">Applied Cloud and AI Engineer | AI-Integrated InfraStructure Architech </h3>
+<h3 align="center">Applied Cloud and AI Engineer | AI-Integrated InfraStructure Architect </h3>
 
 <p align="center">Building automated, scalable cloud infrastructure on AWS and Azure — and integrating generative AI where it actually moves the needle on cost, reliability, and operations.</p>
 
