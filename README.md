@@ -2,7 +2,7 @@
 
 <h3 align="center">Applied Cloud and AI Engineer | AI-Integrated InfraStructure Architect </h3>
 
-<p align="center">Building automated, scalable cloud infrastructure on AWS and Azure — and integrating generative AI where it actually moves the needle on cost, reliability, and operations.</p>
+<p align="center">Building automated, scalable cloud infrastructure on AWS and Azure - and integrating generative AI where it actually moves the needle on cost, reliability, and operations.</p>
 
 ---
 
@@ -17,23 +17,23 @@ I specialize in:
 - **Cloud networking, IAM, monitoring, and cost governance** in enterprise environments
 - **Generative AI in cloud workflows** — RAG systems and Bedrock automation, plus using LLMs to speed up things like cost anomaly detection and chatops
 
-I'm currently finishing my M.S. in Computer Information Systems at Christian Brothers University (4.0 GPA) and studying for the AWS Certified Solutions Architect – Associate and AWS Certified AI Practitioner exams.
+I'm currently finishing my M.S. in Computer Information Systems at Christian Brothers University (4.0 GPA) and studying for the AWS Certified Solutions Architect - Associate and AWS Certified AI Practitioner exams.
 
 ---
 
 ## 🚀 Professional Experience
 
-**IT Cloud Extern – ALSAC / St. Jude Children's Research Hospital** | Memphis, TN, USA — Dec 2025
+**IT Cloud Extern - ALSAC / St. Jude Children's Research Hospital** | Memphis, TN, USA - Dec 2025
 - Monitored EC2, S3, and Lambda workloads across 10+ production environments using CloudWatch
 - Supported infrastructure config reviews and cost optimization initiatives with the enterprise IT team
 - Correlated CloudFront/CloudWatch metrics with Adobe Analytics data to catch performance gaps across 5+ platforms
 
-**Cloud Engineer – Raven Technolabs** | Ahmedabad, India — Mar 2022 – Jul 2024
+**Cloud Engineer - Raven Technolabs** | Ahmedabad, India, Mar 2022 - Jul 2024
 - Migrated an on-prem MySQL workload to Amazon RDS Multi-AZ, improving response performance by 35%
 - Containerized a Node.js application and moved it to Amazon EKS with HPA and resource quotas, raising deployment frequency by 60%
 - Automated infrastructure provisioning with Terraform (EC2 ASGs, IAM, VPC, encrypted S3) through CI/CD, cutting provisioning effort by 60%
 
-**Cloud Infrastructure & Security Intern – CELEBAL Technologies** | Jaipur, India — May 2023 – Jul 2023
+**Cloud Infrastructure & Security Intern - CELEBAL Technologies** | Jaipur, India, May 2023 - Jul 2023
 - Provisioned Azure infrastructure (AKS, VNets, NSGs, Storage Accounts, RBAC) with Terraform and ARM templates
 - Automated deployments via GitHub Actions, bringing environment setup down from 2 days to under 5 hours across 15+ resources
 
@@ -52,9 +52,10 @@ I'm currently finishing my M.S. in Computer Information Systems at Christian Bro
 
 ## 🔬 Featured Projects
 
-**💰 FINOMICS — AI-Powered Multi-Cloud FinOps Platform**
+**💰 FINOMICS 
+AI-Powered Multi-Cloud FinOps Platform**
 Airflow pipeline ingesting 3,600+ billing records from AWS Cost Explorer and Azure Cost Management into PostgreSQL on RDS.
-- Applied Isolation Forest, Prophet, and Llama-3 for anomaly detection and forecasting — automated reporting by 70%, flagged 20+ cost anomalies
+- Applied Isolation Forest, Prophet, and Llama-3 for anomaly detection and forecasting - automated reporting by 70%, flagged 20+ cost anomalies
 - Provisioned RDS with Terraform and GitHub Actions CI/CD; Power BI dashboards surfaced 12% in potential cost savings
 
 **🧠 RAG-Based AI Knowledge Assistant on AWS**
@@ -62,7 +63,8 @@ Fully serverless RAG pipeline using Lambda, API Gateway, and Bedrock, with FAISS
 - Delivered context-aware responses in under 3 seconds
 - Infrastructure fully defined in Terraform, containerized and deployed via GitHub Actions CI/CD — cut manual setup effort by 65%
 
-**🎓 UNIASSIST — Cloud-Based Student Engagement System**
+**🎓 UNIASSIST 
+Cloud-Based Student Engagement System**
 AI chatbot built on Amazon Bedrock, Lex V2, and Lambda automating university admission inquiries.
 - Hit a 92% resolution rate across thousands of student queries, cutting wait time by 98%
 - Deployed on Amazon ECS via GitHub Actions CI/CD; monitored with CloudWatch and Grafana — held 99.9% uptime
@@ -75,7 +77,7 @@ AI chatbot built on Amazon Bedrock, Lex V2, and Lambda automating university adm
 - AWS Academy Cloud Developing
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Oracle Cloud Infrastructure Foundation
-- SQL for Data Analytics — LinkedIn Learning
+- SQL for Data Analytics - LinkedIn Learning
 - 🎯 In progress: AWS Certified Solutions Architect – Associate & AWS Certified AI Practitioner
 
 ---
@@ -87,4 +89,4 @@ AI chatbot built on Amazon Bedrock, Lex V2, and Lambda automating university adm
 - 📧 Email: [jainampatel2426@gmail.com](mailto:jainampatel2426@gmail.com)
 
 
-<p align="center"><i>⭐ I focus on building reliable, automated cloud infrastructure — and folding in AI where it earns its place, not just because it's trendy.</i></p>
+<p align="center"><i>⭐ I focus on building reliable, automated cloud infrastructure - and folding in AI where it earns its place, not just because it's trendy.</i></p>
