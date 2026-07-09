@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jainam%20Patel&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6AD3F7&center=true&vCenter=true&width=900&lines=M.S.+Computer+Information+Science;Christian+Brothers+University+%7C+Graduating+May+2026;Cloud+Engineer;Building+AI+Agents%2C+Automation+%26+Scalable+Cloud+Infrastructure;AWS+Certified+%7C+Researcher;Open+to+Full-Time+Software%2C+Cloud+%26+AI+Engineering+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6AD3F7&center=true&vCenter=true&width=900&lines=M.S.+Computer+Information+Science;Christian+Brothers+University+%7C+May+2026;Cloud+Engineer;Building+AI+Agents%2C+Automation+%26+Scalable+Cloud+Infrastructure;AWS+Certified+%7C+Researcher;Open+to+Full-Time+Software%2C+Cloud+%26+AI+Engineering+Roles)](https://git.io/typing-svg)
 <br/>
 
 
