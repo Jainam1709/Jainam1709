@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jainam Patel</h1>
+<div align="center">
 
-<h3 align="center">Applied Cloud and AI Engineer | AI-Integrated InfraStructure Architect </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jainam%20Patel&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">Building automated, scalable cloud infrastructure on AWS and Azure - and integrating generative AI where it actually moves the needle on cost, reliability, and operations.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&width=850&lines=M.S.+Computer+Information+Science+%7C+Christian+Brothers+University+%7C+May+2026;Cloud+Engineer;Building+AI+Agents%2C+Automation+%26+Scalable+Cloud+Infrastructure;AWS+Certified+%7C+Researcher;Passionate+About+Cloud%2C+AI%2C+DevOps+%26+Distributed+Systems;Open+to+Full-Time+Software+Engineering+%26+Cloud+Engineering+Opportunities)](https://git.io/typing-svg)
 
----
+<br/>
+
 
 ## 👨‍💻 About Me
 
