@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=6AD3F7&center=true&vCenter=true&width=900&lines=M.S.+Computer+Information+Science;Christian+Brothers+University+%7C+May+2026;Cloud+Engineer;Building+AI+Agents%2C+Automation+%26+Scalable+Cloud+Infrastructure;AWS+Certified+%7C+Researcher;Open+to+Full-Time+Software%2C+Cloud+%26+AI+Engineering+Roles)](https://git.io/typing-svg)
 <br/>
-
+</div>
 
 ## 👨‍💻 About Me
 
